@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Norin Oul
 
-[![](https://img.shields.io/github/downloads/NorinOul/NorinOul/total?label=GitHub&logo=GitHub)
+![](https://img.shields.io/github/downloads/NorinOul/NorinOul/total?label=GitHub&logo=GitHub)
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
